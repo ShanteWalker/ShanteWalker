@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @ShanteWalker
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-ShanteWalker/ShanteWalker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+HI MY NAME IS SHANTE DNAY  WALKER 
+I live jena la 
+IM INTERESTING IN CNA PATIENTS  CARE
+CONTACT INFORMATION 3183128592
+Trying do my background  check 
